@@ -14,7 +14,7 @@ yggdrasil: false
 官网：www.dfggmc.top
 丐版官网：dfggmc.eu.org
 加入我们：
-https://dfggmc.top/#link
+https://dfggmc.top/#link 
 https://dfggmc.eu.org/join.html
 正版，离线和外置登录可进服务器
 
@@ -29,6 +29,5 @@ https://dfggmc.eu.org/join.html
 
 ## 链接
 
-- [注册红石账号](https://mcskin.cn/register)
 - [官网](https://www.dfggmc.top)
 - [丐版官网](https://dfggmc.eu.org)
