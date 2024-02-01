@@ -2,7 +2,7 @@
   <!--footer-->
   <div class="black py-8">
     <div class="container mx-auto flex justify-center items-center">
-        <div class="text-md font-bold">© {{ year }} 红石皮肤站</div>
+        <div class="text-md font-bold">© {{ year }} dfgg Studio</div>
     </div>
   </div>
 </template>
