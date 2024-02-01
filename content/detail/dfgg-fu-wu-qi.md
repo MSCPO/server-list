@@ -10,13 +10,13 @@ yggdrasil: false
 
 ## 介绍
 
-一个以建筑为玩法的创造服务器
-官网：www.dfggmc.top
-丐版官网：dfggmc.eu.org
-加入我们：
-https://dfggmc.top/#link 
-https://dfggmc.eu.org/join.html
-正版，离线和外置登录可进服务器
+欢迎来到dfgg Minecraft服务器！这是一个在创造模式下使用建筑作为游戏玩法的服务器。为了服务器中建筑物的安全，您需要加入我们的社区并申请白名单，然后才能加入服务器。
+我们的官方网站：https://www.dfggmc.top 和
+https://dfggmc.eu.org
+我们的Yandex Messenger群聊：https://yandex.ru/chat#/join/e48b05da-f96d-4174-91c2-82c2a7105dba
+我们的Skype群聊：https://join.skype.com/y7B6sxQU9S2a
+我们的QQ群聊号码：132939895
+我们的论坛：https://bbs.dfggmc.top/t/dfggServer
 
 ## 服务器信息
 
