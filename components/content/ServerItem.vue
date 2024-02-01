@@ -28,7 +28,7 @@ const props = defineProps({
   server: {
     type: String,
     required: false,
-    default: "play.hypixel.net",
+    default: "play.dfggmc.eu.org",
   },
   icon: {
     type: String,
