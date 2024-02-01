@@ -38,10 +38,10 @@
         <!--免责声明-->
         <div class="mt-4 border-l-4 border-l-black pl-4 dark:border-l-white">
           <div class="text-2xl">
-            免责声明
+            声明
           </div>
           <div class="mt-2">
-            本站与服务器无任何合作关系，本站仅提供服务器信息查询服务，不提供任何游戏服务，本站不对服务器的安全性、合法性、真实性负责，不承担任何法律责任。
+            原作者是红石皮肤站，这个站点是dfgg团队Fork的红石皮肤站的存储库
           </div>
         </div>
       </ContentDoc>
