@@ -98,7 +98,7 @@ const toInfoItems = (doc: any) => {
   }
   items.push({
     label: "是否支持离线账号",
-    value: doc.yggdrasil ? "支持" : "不支持",
+    value: doc.Account ? "支持" : "不支持",
   });
 
   return items;
