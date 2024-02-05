@@ -20,7 +20,7 @@
 4. (可选)如果你需要显示图片，请在 `/public/images/` 目录下创建一个文件夹，文件夹名称应该与 markdown 文件名称相同，以便进行管理。
 5. push 到你的仓库，然后提交 pull request。
 
-> 如果你不会使用 git，可以直接在 github 网页上编辑文件，然后提交 pull request。还是不会的话，请联系站长手动添加，但不保证及时回应。多次联系站长帮忙添加或修改的，请自觉[发电](https://afdian.net/a/hempflower)。
+> 如果你不会使用 git，可以直接在 github 网页上编辑文件，然后提交 pull request。
 
 ## 免责声明
 
