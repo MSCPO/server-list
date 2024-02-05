@@ -35,13 +35,13 @@
         <div class="markdown-body">
           <ContentRenderer :value="doc" />
         </div>
-        <!--免责声明-->
+        <!--声明-->
         <div class="mt-4 border-l-4 border-l-black pl-4 dark:border-l-white">
           <div class="text-2xl">
             声明
           </div>
           <div class="mt-2">
-            原作者是红石皮肤站，这个站点是dfgg团队Fork的红石皮肤站的存储库
+            这是MSCPO服务器宣传栏，我们的官网：https://mscpo.netlify.app/
           </div>
         </div>
       </ContentDoc>
@@ -97,7 +97,7 @@ const toInfoItems = (doc: any) => {
     });
   }
   items.push({
-    label: "红石账号登录",
+    label: "是否支持离线账号",
     value: doc.yggdrasil ? "支持" : "不支持",
   });
 
