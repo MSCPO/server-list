@@ -63,10 +63,10 @@ const handleServerInfo = async () => {
       pingIcon.value = data.icon ? data.icon : unknownIcon;
       onlinePlayers.value = data.players.online;
     } else {
-      motd.value = "dfgg服务器 | Powered by Cuberite";
+      motd.value = "服务器离线";
     }
   } catch (e) {
-    motd.value = "dfgg服务器 | Powered by Cuberite";
+    motd.value = "服务器离线";
   }
 };
 
