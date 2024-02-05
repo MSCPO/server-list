@@ -4,6 +4,7 @@ address: play.dfggmc.eu.org
 group: 132939895
 version: 1.8.x-1.12.x
 team: dfgg Studio
+Account : true
 ---
 # dfgg服务器
 
