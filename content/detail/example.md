@@ -1,15 +1,13 @@
 ---
 name: 示例服务器[模板]
-address: play.mcskin.cn
-group: 859171479
+address: 
+group: 
 icon: ''
-download: https://mcskin.cn/download
-version: 1.8.9-1.16.5
-website: https://mcskin.cn/download
-team: 红石服务器
-yggdrasil: true
-# 请删除下面一行
-hide: true
+download: 
+version: 
+website: 
+team: 
+Account: 
 ---
 # 示例服务器
 
@@ -27,7 +25,7 @@ hide: true
 - version: 服务器版本，可选。
 - website: 服务器网站，可选。
 - team: 服务器团队，可选。
-- yggdrasil: 是否使用红石皮肤站外置登录，可选，默认为false。
+- Account: 是否允许离线账号登陆，可选。
 - icon: 服务器图标，可选，如果不填写则使用 ping 到的服务器图标。
 
 请注意，请至少提供一种玩家可以获取游玩信息的渠道，否则拒绝发布。
@@ -45,13 +43,12 @@ hide: true
 
 | 服务器名称 | 示例服务器 |
 | :---: | :---: |
-| 服务器地址 | play.mcskin.cn |
-| 服务器版本 | 1.8.9-1.16.5 |
-| 服务器网站 | https://mcskin.cn/download |
-| 服务器下载 | https://mcskin.cn/download |
-| 服务器团队 | 红石服务器 |
+| 服务器地址 | 我是占位的 |
+| 服务器版本 | 我是占位的 |
+| 服务器网站 | 我是占位的 |
+| 服务器下载 | 我是占位的 |
+| 服务器团队 | 我是占位的 |
 
 ## 链接
 
-- [示例链接](https://mcskin.cn/download)
-- [注册红石账号](https://mcskin.cn/register)
+- [示例链接](在这里填写链接)
