@@ -16,7 +16,7 @@
 1. fork 本仓库, 并 clone 到本地
 2. 在 `content/detail/` 目录下创建一个 markdown 文件，文件名为你的服务器名称，例如：`ce-shi-fu-wu-qi.md`,文件名仅允许使用英文、数字、下划线、中划线。可以使用这个工具快速将中文服务器名称转换为英文：
 [https://www.toolsdaquan.com/chinese-to-pinyin/](https://www.toolsdaquan.com/chinese-to-pinyin/)
-3. 从 `content/detail/example.md` 复制内容到你的 markdown 文件中，按照文件中的指南填写服务器信息。
+3. 从存储库的根目录中的 `example.md` 复制内容到你的 markdown 文件中，按照文件中的指南填写服务器信息。
 4. (可选)如果你需要显示图片，请在 `/public/images/` 目录下创建一个文件夹，文件夹名称应该与 markdown 文件名称相同，以便进行管理。
 5. push 到你的仓库，然后提交 pull request。
 
